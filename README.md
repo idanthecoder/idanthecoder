@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @idanthecoder
+- 👾 I can code in C#, Python and Assembly
+- 👀 I’m interested in cyber security, coding in general and physics.
+- 🌱 I’m currently learning HTML, SQL and Networking in Python.
+- 💞️ I’m looking to collaborate on interesting projects that will help me acquire new knowlendge.
+- 📫 How to reach me via mail: workidanb@gmail.com
